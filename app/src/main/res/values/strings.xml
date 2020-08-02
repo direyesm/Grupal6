@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fecha_Nac</string>
+    <string name="textView">Ingrese año de nacimiento</string>
+    <string name="editTextDate">aaaa</string>
+    <string name="button">Calcular</string>
+    <string name="textView2">*</string>
+    <string name="textView3">La suma de los caracteres del año es:</string>
+    <string name="textView4">*</string>
+</resources>
